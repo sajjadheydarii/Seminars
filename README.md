@@ -7,5 +7,4 @@ Under license of universities below:
 2. Iran University of science and Technology
 3. Khajeh Nasrir University of Technology
 4. Yazd University
-5. Qom University of Technology
-6. Kharazmi University
+5. Kharazmi University
